@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter App</string>
+    <string name="txtTitle">Currency Converter</string>
+    <string name="txtCurrency">Enter U.S. Dollars</string>
+    <string name="radDolToEur">Convert U.S. Dollars to Euros</string>
+    <string name="radDolToPes">Convert U.S. Dollars to Pesos</string>
+    <string name="radDolToRup">Convert U.S. Dollars to Rupees</string>
+    <string name="btnCurrency">Convert Currency</string>
+</resources>
